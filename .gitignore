@@ -60,3 +60,4 @@ venv/bin/Activate.ps1
     venv/lib/python3.11/site-packages/_distutils_hack/override.py
     venv/lib/python3.11/site-packages/blinker-1.6.2.dist-info/INSTAL
 .DS_Store
+venv
